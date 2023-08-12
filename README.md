@@ -20,7 +20,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tharani-t
 
 ## Work Experience
 
-### Associate Software Engineer - Accenture India Private Limited, Chennai, India (October 2021 - January 2023)
+### Associate Software Engineer - Accenture India Private Limited, Chennai, India (October 2021 - Present)
 
 ## Certifications
 
