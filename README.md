@@ -1,6 +1,6 @@
-# Tharani Tharan - Python Developer / Tutor
+# Tharanitharan - Python Developer / Tutor
 
-Hello there! Welcome to my GitHub profile. I'm Tharani Tharan, a Python Developer and Tutor based in Chennai, India. I'm passionate about programming, machine learning, and sharing knowledge through teaching and mentoring. This README provides a snapshot of my professional journey, skills, teaching experiences, work history, education, certifications, projects, and achievements.
+Hello there! Welcome to my GitHub profile. I'm Tharanitharan, a Python Developer and Tutor based in Chennai, India. I'm passionate about programming, machine learning, and sharing knowledge through teaching and mentoring. This README provides a snapshot of my professional journey, skills, teaching experiences, work history, education, certifications, projects, and achievements.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tharani-tharan) or reach out via email at tharanimtharan@gmail.com.
 
