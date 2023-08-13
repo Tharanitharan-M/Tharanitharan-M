@@ -25,6 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 - **Machine Learning:** Proficient in using Python libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib for machine learning projects.
 - **Databases:** Experienced with MongoDB and MySQL, including CRUD operations, views, and stored procedures.
 - **Data Structures and Algorithms:** Strong foundation in data structures and algorithms for efficient problem-solving.
