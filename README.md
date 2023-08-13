@@ -22,6 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tharani-tharan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tharani-tharan/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/thar17323_ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/thar17323_ee" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/tharanimr2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tharanimr2000/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,10 +33,6 @@
 - **Data Structures and Algorithms:** Strong foundation in data structures and algorithms for efficient problem-solving.
 - **Full Stack Development:** Skilled in building web applications using HTML, CSS, JavaScript, React, and for backend in Django and Flask framework.
 - **Version Control:** Proficient in using Git and GitHub for collaborative development.
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharanitharan-m&show_icons=true&locale=en&layout=compact" alt="tharanitharan-m" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharanitharan-m&" alt="tharanitharan-m" /></p>
 
 ## Certifications
 
@@ -46,3 +44,7 @@
 - Python for Everybody - University of Michigan (September 2020)
 
 Thank you for visiting my profile! Feel free to explore my projects and connect with me for any collaborations or inquiries.
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharanitharan-m&show_icons=true&locale=en&layout=compact" alt="tharanitharan-m" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharanitharan-m&" alt="tharanitharan-m" /></p>
