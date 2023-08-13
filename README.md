@@ -9,11 +9,11 @@
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tharani-tharan) or reach out via email at tharanimtharan@gmail.com.
 
-### 🏢 Work Experience
+## 🏢 Work Experience
 
-#### Associate Software Engineer - Accenture India Private Limited, Chennai, India
+### Associate Software Engineer - Accenture India Private Limited, Chennai, India
 
-### 🧑‍🏫 Teaching and Mentoring
+## 🧑‍🏫 Teaching and Mentoring
 
 - **Full Stack with Python Mentor** at Guvi - Offline (July 2023)
 - **Data Science and Programming Tutor** at Apollo Computer Education - Offline (January 2023 - Present)
