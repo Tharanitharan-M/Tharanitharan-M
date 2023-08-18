@@ -309,6 +309,6 @@
 
 Thank you for visiting my profile! Feel free to explore my projects and connect with me for any collaborations or inquiries.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharanitharan-m&show_icons=true&locale=en&layout=compact" alt="tharanitharan-m" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharanitharan-m&show_icons=true&locale=en&layout=compact&theme=dark" alt="tharanitharan-m" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharanitharan-m&theme=dark" alt="tharanitharan-m" /></p>
