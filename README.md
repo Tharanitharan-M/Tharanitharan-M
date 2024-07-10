@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharanitharan M</h1>
-<h3 align="center">A Full Stack Python Developer, Machine Learning Engineer, and Tutor based in the United States</h3>
+<h3 align="center">Graduate Student in CS at the Northeastern University, United States</h3>
 
 - 🌱 I’m currently enhancing my skills in **React and Django**
 
