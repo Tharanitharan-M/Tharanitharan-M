@@ -107,6 +107,8 @@ I'm a dedicated Computer Science graduate student at Northeastern University, on
 
 ## 🏆 Achievements and Certifications
 - **Roux Hackathon**: Secured runner-up position and $500 prize for developing Maine Quest, an AI-driven tourism platform
+- **Start Summit - Decarbonizing the Built Environment**: Achieved runner-up position and $1000 prize for presenting a sustainable construction model.
+- **Start Summit: New Mainer Inclusivity**: Secured runner-up position for proposing InclusiLang, a company utilizing AI to provide language interpreters for New Mainers. The mobile app connects New Mainers, particularly from the Democratic Republic of the Congo, with AI and immediate interpreters to assist with everyday needs such as banking, documentation, and healthcare challenges.
 - **Google Data Analytics Professional Certificate**
 - **IBM Data Science Professional Certificate**
 
