@@ -114,8 +114,8 @@ I'm a dedicated Computer Science graduate student at Northeastern University, on
 
 ## 📫 Connect With Me
 - **Email**: tharanimtharan@gmail.com
-- **LinkedIn**: [www.linkedin.com/in/tharanitharanm](www.linkedin.com/in/tharanitharanm)
-- **Portfolio**: [www.tharanitharan.com](www.tharanimtharan.com)
+- **LinkedIn**: <a href="https://linkedin.com/in/tharanitharanm" target="_blank">www.linkedin.com/in/tharanitharanm</a>
+- **Portfolio**: <a href="https://www.tharanitharan.com/" target="_blank">www.tharanitharan.com/</a>
 - **Phone**: +1 (207)-332-4078
 
 ---
