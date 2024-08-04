@@ -1,120 +1,121 @@
-<h1 align="center">Hi 👋, I'm Tharanitharan M</h1>
-<h3 align="center">Graduate Student in CS at the Northeastern University, United States</h3>
+# Tharanitharan Muthuthirumaran
 
-- 🌱 I’m currently enhancing my skills in **React and Django**
+## 👨‍💻 About Me
+I'm a dedicated Computer Science graduate student at Northeastern University, on track to complete my Master's degree in December 2025. My journey began in Electrical and Electronics Engineering, but my passion for software development and data engineering led me to transition into the world of Computer Science. This unique background allows me to approach problems with a multidisciplinary perspective, combining hardware knowledge with software expertise.
 
-- 💬 Ask me about **Machine Learning, Website Development, Python**
+## 🎓 Education
+### Northeastern University
+- **Degree**: Master of Science in Computer Science
+- **Expected Graduation**: December 2025
+- **GPA**: 3.8/4.0
+- **Key Coursework**: 
+  - Algorithms and Programming Design Paradigm
 
-- ❤️ I'm passionate about programming, machine learning, and sharing knowledge through teaching and mentoring.
+### Anna University
+- **Degree**: Bachelor of Engineering in Electrical and Electronics Engineering
+- **Graduation**: April 2021
+- **CGPA**: 7.7/10
+- **Key Coursework**: 
+  - Data Structures and Algorithms
+  - Object Oriented Programming
+  - Design Patterns and Principles
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tharanitharanm) or via email at tharanimtharan@gmail.com.
+## 🛠 Technical Skills
+- **Programming Languages**: 
+  - Python (Advanced)
+  - Java (Intermediate)
+  - JavaScript (Intermediate)
+- **Web Development**: 
+  - Frontend: React, HTML5, CSS3
+  - Backend: Flask
+- **Data Engineering & Big Data**: 
+  - Apache Kafka
+- **Cloud Platforms**: 
+  - Amazon Web Services (AWS)
+  - Microsoft Azure
+- **Databases**: 
+  - Relational: MySQL, PostgreSQL, SQLite
+  - NoSQL: MongoDB
+- **DevOps & Tools**: 
+  - Version Control: Git and GitHub
+  - CI/CD: Jenkins
+  - Project Management: Jira
+  - API Testing: Postman
+  - Automation: Selenium
+- **Data Analysis & Visualization**: 
+  - NumPy, Pandas
+  - Matplotlib, Seaborn
+- **Machine Learning**: 
+  - Scikit-learn
+  - TensorFlow
+  - Convolutional Neural Networks (CNN)
 
-## 🏢 Work Experience
+## 🚀 Projects
 
-### Software Engineer - Accenture, Chennai, India
-- Executed 500+ manual and automated test cases using Selenium, achieving 87% test coverage for critical functionalities.
-- Identified and reported 100+ defects in JIRA during the regression testing phase, enhancing software quality and user experience by reducing post-release issues by 26%.
-- Utilized Python programming and Jenkins for automation, developing test scripts and continuous integration pipelines, resulting in a 78% reduction in process time and streamlined testing procedures.
-- Collaborated with cross-functional teams, including developers and product managers to deliver high-quality software products.
+### VidSummarizer: AI-Powered Video Analyzer
+- **Technologies**: Python, Flask, React, Google's Gemini AI, SQLite, MongoDB
+- **Description**: Developed a web application that leverages AI to transcribe, summarize, and enable Q&A for YouTube videos.
+- **Key Features**:
+  - Integrated Google's Gemini AI for advanced natural language processing
+  - Implemented a Flask backend with RESTful API endpoints
+  - Designed a responsive React frontend for seamless user interaction
+  - Utilized SQLite for user data storage and MongoDB for efficient chat data management
+- **Outcome**: Enhanced content accessibility and user engagement for video content
 
-### Operations Intern - Integration Wizards Solutions, Chennai, India
-- Developed and optimized custom Docker containers tailored for specific use cases, ensuring seamless integration and deployment.
-- Resolved complex network issues and enhanced network security on remote machines for deployments, improving system reliability by 30%.
-- Anticipated and mitigated operational problems by analyzing modes of operation and system limitations, reducing downtime by 20%.
-- Identified and addressed system performance and connectivity issues, resulting in a 25% increase in system efficiency.
+### Stock Market Data Pipeline
+- **Technologies**: Apache Kafka, AWS (S3, Athena, Glue), Python, SQL
+- **Description**: Engineered an end-to-end data pipeline for processing real-time stock market data.
+- **Key Components**:
+  - Utilized Apache Kafka for high-throughput, fault-tolerant data streaming
+  - Implemented data flow from Kafka to AWS S3 for durable storage
+  - Configured AWS Glue Crawler for automated schema detection and cataloging
+  - Leveraged AWS Athena for SQL-based data analysis on S3 data
+- **Outcome**: Enabled real-time processing and analysis of stock market data, facilitating informed decision-making
 
-## 🧑‍🏫 Teaching and Mentoring
+### Malaria Affected Cell Detection Using CNN
+- **Technologies**: Python, TensorFlow, Convolutional Neural Networks
+- **Description**: Developed a machine learning model to distinguish between malaria-infected and uninfected cells.
+- **Key Achievements**:
+  - Achieved 88.06% accuracy on the test set
+  - Trained the model on a small dataset of 550 images, demonstrating effective use of limited data
+  - Implemented data augmentation techniques to enhance model generalization
+- **Impact**: Contributed to the development of automated diagnostic tools for malaria detection
 
-- **Full Stack with Python Mentor** at Guvi - Offline (July 2023)
-- **Data Science and Programming Tutor** at Apollo Computer Education - Offline (January 2023 - Present)
-- **Python Tutor** through Freelancing - Online (November 2020 - December 2022)
+### Credit Card Fraud Detection
+- **Technologies**: Python, Scikit-learn, Pandas, Matplotlib
+- **Description**: Built a machine learning model to identify fraudulent credit card transactions.
+- **Key Features**:
+  - Implemented logistic regression algorithm for binary classification
+  - Conducted extensive Exploratory Data Analysis (EDA) on a dataset of 284,807 transactions
+  - Achieved 92.89% accuracy in classifying fraudulent transactions
+  - Identified key traits of fraudulent transactions, including timing and amount patterns
+- **Outcome**: Developed a robust model for early detection of credit card fraud, enhancing financial security
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tharanitharanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thar17323_ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-<a href="https://leetcode.com/Tharanitharan-M/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-</p>
+## 💼 Professional Experience
 
-<h3 align="left">Languages and Tools:</h3>
+### Accenture, Chennai, India
+**Position**: Associate Software Engineer
+**Duration**: October 2021 – December 2022
 
-- **Machine Learning:** Proficient in using Python libraries such as Pandas, NumPy, Scikit-learn, TensorFlow, and PyTorch.
-- **Databases:** Experienced with MongoDB, MySQL, and PostgreSQL, including CRUD operations, views, and stored procedures.
-- **Data Structures and Algorithms:** Strong foundation in data structures and algorithms for efficient problem-solving.
-- **Full Stack Development:** Skilled in building web applications using HTML, CSS, JavaScript, React, Django, and Flask.
-- **Version Control:** Proficient in using Git and GitHub for collaborative development.
+**Key Responsibilities and Achievements**:
+- Developed and maintained comprehensive testing documents, enhancing project transparency and stakeholder collaboration
+- Executed over 500 test cases using Python, Selenium, and Pytest, achieving 87% test coverage for critical functionalities
+- Identified and reported more than 100 defects in JIRA, significantly improving software quality and user experience
+- Leveraged Python programming and Jenkins for automation and CI/CD pipelines, resulting in an 18% reduction in testing time
+- Generated detailed Pytest reports to facilitate efficient identification, troubleshooting, and resolution of technical issues
+- Collaborated with cross-functional teams to identify and prioritize focus areas for upcoming sprint cycles, ensuring alignment with project goals and outcomes
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40" />
-  </a>
-</p>
+## 🏆 Achievements and Certifications
+- **Roux Hackathon**: Secured runner-up position and $500 prize for developing Maine Quest, an AI-driven tourism platform
+- **Google Data Analytics Professional Certificate**
+- **IBM Data Science Professional Certificate**
+
+## 📫 Connect With Me
+- **Email**: tharanimtharan@gmail.com
+- **LinkedIn**: [www.linkedin.com/in/tharanitharanm](www.linkedin.com/in/tharanitharanm)
+- **Portfolio**: [www.tharanitharan.com](www.tharanitharan.com)
+- **Phone**: +1 (207)-332-4078
+
+---
+
+I'm always open to interesting projects and collaboration opportunities. Feel free to explore my repositories and reach out if you'd like to connect or discuss potential collaborations!
