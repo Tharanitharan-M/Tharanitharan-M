@@ -11,8 +11,7 @@ I specialize in **backend development, cloud computing, machine learning, and te
 ### **Northeastern University**
 - **Master of Science in Computer Science** *(Jan 2024 – Present)*
 - **Teaching Assistant:** CS 5010 - Programming Design Paradigms  
-- **Key Coursework:** Algorithms, Software Development, AI, Data Engineering  
-
+- **Key Coursework:** Advanced Algorithms, System Designs, Artificial Intelligence and Machine Learning
 ### **Anna University**
 - **Bachelor of Engineering in Electrical & Electronics Engineering** *(Jul 2017 – Apr 2021)*  
 - **Key Coursework:** Data Structures, OOP, Design Patterns  
