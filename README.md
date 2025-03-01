@@ -39,7 +39,7 @@ I specialize in **backend development, cloud computing, machine learning, and te
 🔹 **Real-time stock market analytics** with **Apache Kafka & AWS**  
 🔹 **Automated schema detection & SQL-based analysis**  
 
-### [**Malaria Affected Cell Detection (CNNs)**](https://github.com/Tharanitharan-M/Malaria-Cell-Detection)  
+### [**Malaria Affected Cell Detection (CNNs)**](https://www.kaggle.com/code/mtharanitharan/detecting-malaria-using-cnn)  
 🔹 **88.06% accuracy** in detecting **malaria-infected cells** using **TensorFlow**  
 
 ### [**Credit Card Fraud Detection**](https://github.com/Tharanitharan-M/Credit-Card-Fraud-Detection)  
