@@ -1,90 +1,53 @@
-# **Tharanitharan Muthuthirumaran**
+# Tharanitharan Muthuthirumaran
 
-## 👨‍💻 About Me
-I'm a **Software Engineer at Codecademy from SkillSoft** and a **Computer Science graduate student at Northeastern University**. My background in **Electrical & Electronics Engineering** and passion for **software development, data engineering, and AI** enable me to build scalable, efficient solutions.  
+## 💫 About Me:
+Hi! I'm Tharanitharan, a Master's student in Computer Science at Northeastern University, passionate about AI, data engineering, and backend development. I've worked at Accenture and Codecademy, building impactful tech solutions.<br><br>🔭 Currently working on: AI-powered tools, data pipelines, and backend development projects.<br>👯 Looking to collaborate on: Innovative tech projects in AI, data engineering, and web development.<br>🤝 Looking for help with: Optimizing large-scale data processes and mastering advanced AI models.<br>🌱 Currently learning: Advanced machine learning, cloud technologies, and backend optimization techniques.<br>💬 Ask me about: Automating workflows, building AI-driven applications, or optimizing backend systems.<br>⚡ Fun fact: I can debug code faster than I can decide what to eat for dinner—tech problems are easier than food choices!
 
-I specialize in **backend development, cloud computing, machine learning, and test automation** with a keen interest in **LLMs, data pipelines, and AI-powered applications**.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tharanitharanm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muthuthirumaran.t@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%2300BFFF.svg?logo=About.me&logoColor=white)](https://www.tharanitharan.com)
 
----
+# 💻 Tech Stack:
+**Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🎓 **Education**
-### **Northeastern University**
-- **Master of Science in Computer Science** *(Jan 2024 – Present)*
-- **Teaching Assistant:** CS 5010 - Programming Design Paradigms  
-- **Key Coursework:** Advanced Algorithms, System Designs, Artificial Intelligence and Machine Learning
-### **Anna University**
-- **Bachelor of Engineering in Electrical & Electronics Engineering** *(Jul 2017 – Apr 2021)*  
-- **Key Coursework:** Data Structures, OOP, Design Patterns  
+**Backend Development:** ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
----
+**Frontend Development:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🛠 **Technical Skills**
-- **Languages:** Python, Java, SQL (PostgreSQL, MySQL), NoSQL (MongoDB), JavaScript, TypeScript, HTML/CSS  
-- **Backend Development:** Flask, FastAPI, Node.js, Ruby on Rails, REST APIs, GraphQL  
-- **Data Engineering & Big Data:** Apache Kafka, AWS Glue, Athena, S3, Lambda  
-- **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, OpenAI LLMs  
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau  
-- **DevOps & Tools:** Git, GitHub, Jenkins, Docker, Selenium, Postman, Jira, Confluence  
-- **Cloud Platforms:** AWS (S3, Lambda, Glue), Microsoft Azure, Google Cloud  
+**Databases:** ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
+**Cloud & DevOps:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-## 🚀 **Projects**
-### [**VidSummarize**](https://github.com/Tharanitharan-M/VidSummarize)  
-🔹 AI-powered **YouTube video transcription, summarization & Q&A** using **Google Gemini AI**  
-🔹 **Flask backend** + **React frontend**, with **SQLite & MongoDB**  
+**Machine Learning & Data Engineering:** ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/apache%20kafka-000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-### [**Stock Market Data Pipeline**](https://github.com/Tharanitharan-M/Stock-Market-Analytics-Dashboard)  
-🔹 **Real-time stock market analytics** with **Apache Kafka & AWS**  
-🔹 **Automated schema detection & SQL-based analysis**  
+## 🎯 Notable Projects:
+- **VidSummarize:** Built a React-based web application leveraging Google's Gemini AI to transcribe, summarize, and enable Q&A for YouTube videos.
+- **Emoji Odyssey:** Currently developing a multiplayer emoji puzzle game with integrated chat features, enhancing interactive gameplay and social engagement.
+- **Gamified Calorie Tracker:** Working on an engaging app that gamifies health tracking, featuring virtual pets that evolve with the user's progress in tracking calories, water intake, and exercise.
+- **Stock Market Data Pipeline:** Designed an AWS and Apache Kafka-based pipeline for real-time stock data ingestion, storage, and querying.
+- **Cyclist BI Dashboard:** Created interactive Tableau dashboards by processing millions of ride records via Google BigQuery.
+- **Non-Invasive Glucometer:** Published research on using IR sensors with Raspberry Pi for blood glucose monitoring.
 
-### [**Malaria Affected Cell Detection (CNNs)**](https://www.kaggle.com/code/mtharanitharan/detecting-malaria-using-cnn)  
-🔹 **88.06% accuracy** in detecting **malaria-infected cells** using **TensorFlow**  
+## 📖 Certifications:
+- Microsoft Certified: Azure Fundamentals
+- AWS Certified Cloud Practitioner
+- Google Data Analytics Professional Certificate
+- Meta Front-End Engineer Professional Certificate
 
-### [**Credit Card Fraud Detection**](https://github.com/Tharanitharan-M/Credit-Card-Fraud-Detection)  
-🔹 **92.89% accuracy** with **logistic regression** for fraud detection  
-🔹 **Data balancing using SMOTE for model improvement**  
+## 👨‍💼 Work Experience:
+- **Software Engineer, Codecademy:** Developing AI-powered educational tools and enhancing content creation workflows.
+- **Software Development Engineer, Accenture:** Led automation testing using Python, Jenkins, and Selenium, improving testing efficiency by 18%.
+- **Operations Intern, Integration Wizards:** Developed Docker containers and implemented object detection systems using YOLOv5.
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tharanitharan-M&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Tharanitharan-M&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharanitharan-M&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 💼 **Professional Experience**
-### **Codecademy from SkillSoft** *(Jan 2025 – Present)*  
-**Software Engineer**  
-✔ Contributing to **'Author'**, an internal tool leveraging **OpenAI’s LLMs** for **AI-driven content creation**  
-✔ **Testing & deploying** new features in **Agile teams**  
-✔ Optimizing workflows for curriculum developers  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tharanitharan-M&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
-### **Accenture, Chennai, India** *(Oct 2021 – Dec 2023)*  
-**Software Engineer**  
-✔ **Automated testing** with **Python, Jenkins, Selenium**, reducing test time by **18%**  
-✔ Executed **500+ test cases**, achieving **87% test coverage**  
-✔ **Identified & fixed 100+ defects** using **JIRA**  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### **Integration Wizards, Remote** *(Apr 2021 – Jul 2021)*  
-**Operations Intern**  
-✔ Built **Docker containers** to streamline deployment  
-✔ Used **YOLOv5 for object detection** in video streams  
-
----
-
-## 🏆 **Achievements & Certifications**
-🏅 **Roux Hackathon** – Runner-up for developing **Maine Quest**, an AI-driven tourism platform **($500 Prize)**  
-🏅 **Start Summit - Decarbonizing the Built Environment** – Runner-up **($1000 Prize)**  
-🏅 **Start Summit: New Mainer Inclusivity** – AI-powered language interpreter for refugees **(Runner-up)**  
-📜 **Microsoft Certified: Azure Fundamentals (AZ-900)**  
-📜 **AWS Certified Cloud Practitioner**  
-📜 **Google Data Analytics Professional Certificate**  
-📜 **IBM Data Science Professional Certificate**  
-
----
-
-## 📫 **Connect With Me**
-📧 **Email**: tharanimtharan@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/tharanitharanm](https://linkedin.com/in/tharanitharanm)  
-🌐 **Portfolio**: [www.tharanitharan.com](https://www.tharanitharan.com/)  
-📞 **Phone**: +1 (207)-332-4078  
-
----
-
-### **🚀 Open to Collaborations!**  
-I'm always excited to explore **new projects, AI applications, and open-source contributions**. Let's connect and build something impactful!  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Tharanitharan-M&limit=5&theme=default&combine_all_yearly_contributions=true)
