@@ -48,13 +48,5 @@ Hi! I'm Tharanitharan — MS CS grad from Northeastern University (May 2026, GPA
 - **Software Engineer Co-op — Skillsoft / Codecademy (Jan–Aug 2025):** Developed AI-powered educational tools and enhanced content creation workflows for a global e-learning platform.
 - **Associate Software Engineer — Accenture (Oct 2021–Dec 2023):** Led automation testing using Python, Jenkins, and Selenium, improving testing efficiency by 18% across enterprise client projects.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tharanitharan-M&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Tharanitharan-M&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharanitharan-M&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tharanitharan-M&theme=default&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
