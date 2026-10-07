@@ -1,52 +1,58 @@
-# Tharanitharan Muthuthirumaran
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Tharanitharan Muthuthirumaran, Forward Deployed Engineer and AI Engineer. Chennai to Portland, Maine." src="assets/header-light.svg" width="100%">
+</picture>
 
-## 💫 About Me:
-Hi! I'm Tharanitharan — MS CS grad from Northeastern University (May 2026, GPA 3.9), passionate about AI agents, full-stack engineering, and building things that ship.<br><br>🔭 Currently working on: **AuditPilot** — a multi-agent compliance assistant built on LangGraph 1.0, Pydantic AI, and MCP. Three-agent system (Orchestrator, Adversarial Auditor, Human Review Gate) with a published MCP server on PyPI and npm.<br>👯 Looking to collaborate on: AI agent systems, LLM tool-calling, full-stack TypeScript projects.<br>🌱 Currently learning: Agent evaluation (RAGAS, Promptfoo), MCP protocol design, LangGraph patterns for human-in-the-loop workflows.<br>💬 Ask me about: Building multi-agent systems, LangGraph, NestJS GraphQL, or structuring AI-powered full-stack apps.<br>⚡ Fun fact: I can debug code faster than I can decide what to eat for dinner — tech problems are easier than food choices!
+I build AI software next to the people who'll use it. I sit in on the work, find where it gets stuck, then build the fix and train the team to run it.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tharanitharanm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muthuthirumaran.t@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%2300BFFF.svg?logo=About.me&logoColor=white)](https://www.tharanitharan.com)
+Right now I'm a forward deployed engineer at SUK Labs, an AI product studio in Portland, Maine. Before that I built LLM systems at Skillsoft and Steady State, and spent two years at Accenture in Chennai building for a US insurer.
 
-# 💻 Tech Stack:
+[![Portfolio](https://img.shields.io/badge/portfolio-tharanitharan.com-2f3c8f?style=flat-square)](https://www.tharanitharan.com)
+[![Resume](https://img.shields.io/badge/resume-PDF-2f3c8f?style=flat-square)](https://www.tharanitharan.com/Tharanitharan_Muthuthirumaran_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/linkedin-tharanitharanm-24292f?style=flat-square)](https://www.linkedin.com/in/tharanitharanm/)
+[![Email](https://img.shields.io/badge/email-muthuthirumaran.t%40gmail.com-24292f?style=flat-square)](mailto:muthuthirumaran.t@gmail.com)
 
-**Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### What I've shipped
 
-**AI & Agents:** ![LangGraph](https://img.shields.io/badge/LangGraph-%23008080.svg?style=for-the-badge&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-%23000000.svg?style=for-the-badge&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-%23FF6B35.svg?style=for-the-badge&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-%230066CC.svg?style=for-the-badge&logoColor=white)
+| Where | What happened |
+|:--|:--|
+| **SUK Labs** | <sub>Forward Deployed Engineer · 2026 to now</sub><br>Cut request turnaround from **13 days to 4** for a nonprofit client's 300+ caseworkers with an intake app I built and deployed after on-site discovery. Added Google Cloud Vision OCR that ended manual spreadsheet entry for up to 600 requests a week. |
+| **Steady State** | <sub>AI Engineer (Contract) · 2026</sub><br>Built the backend and AI layer of an LLM coaching platform, with tool-calling and token streaming. Coaches approve every AI-proposed database write: **zero incorrect writes** across 6 weeks of live use. |
+| **Skillsoft** | <sub>Software Engineer (Co-Op) · 2025</sub><br>Cut OpenAI spend **13%** with prompt and context trimming, watched through LLM traces in Datadog. Launched an LLM quiz generator that saves 2 hours of authoring per course. |
+| **Accenture** | <sub>Associate Software Engineer · 2021 to 2023</sub><br>Made Chubb North America's APIs **23% faster** and resolved 150+ production defects in Java and SQL services. |
 
-**Eval & Observability:** ![Promptfoo](https://img.shields.io/badge/Promptfoo-%23FF4500.svg?style=for-the-badge&logoColor=white) ![Langfuse](https://img.shields.io/badge/Langfuse-%23000000.svg?style=for-the-badge&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23425CC7.svg?style=for-the-badge&logo=opentelemetry&logoColor=white) ![PostHog](https://img.shields.io/badge/PostHog-%23F54E00.svg?style=for-the-badge&logoColor=white)
+### Projects
 
-**Backend Development:** ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+| Project | What it is | Built with |
+|:--|:--|:--|
+| [**AuditPilot**](https://github.com/Tharanitharan-M/AuditPilot) | Open-source reference architecture for SOC 2 readiness reviews. An orchestrator agent drafts findings, an adversarial auditor agent cross-examines them, and a person approves before anything ships. Publishes `compliance-kb-mcp` on [PyPI](https://pypi.org/project/compliance-kb-mcp/) and [npm](https://www.npmjs.com/package/@auditpilot/compliance-kb-mcp), with hybrid pgvector and BM25 search over 324 NIST 800-53 controls. CI fails on any quality drop over 2% across 100 hand-labeled eval cases. | LangGraph, MCP, FastAPI, pgvector, Promptfoo, RAGAS, Langfuse |
+| [**Mentivo**](https://github.com/Tharanitharan-M/mentivo) · [live](https://mentivo-flame.vercel.app) | AI coding mentor that builds a 7-milestone roadmap and checks understanding with adaptive quizzes. 8 versioned prompts, traced in Langfuse and OpenTelemetry across 16 API routes. | Next.js, Gemini, Vercel AI SDK, Langfuse |
+| [**E-Commerce AI App**](https://github.com/Tharanitharan-M/ecommerce) · [live](https://furniture-ecommerce-one-ashen.vercel.app) | Storefront with a Gemini shopping assistant that searches products, looks up orders, and checks out. 70 tests with 90%+ coverage on the payment path. | Next.js, Stripe, Clerk, Vitest, Playwright |
+| [**Horizon Banking**](https://github.com/Tharanitharan-M/Horizon-Banking-Platform) | Banking app with Plaid account linking and transfers, Zod validation, and Sentry error tracking. | Next.js, TypeScript, Plaid, Appwrite |
+| [**NBA Analytics**](https://github.com/Tharanitharan-M/nba-analytics-platform) | Spring Batch ETL over 65,000+ games. Dashboard queries dropped from 2s to 200ms across 13M+ rows. | Java, Spring Boot, PostgreSQL |
 
-**Frontend Development:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-%23000000.svg?style=for-the-badge&logoColor=white) ![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### Toolkit
 
-**Databases:** ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+| Area | Tools |
+|:--|:--|
+| AI engineering | LLM applications, agentic workflows, LangGraph, MCP, tool-calling, RAG, Claude Code, OpenAI, Anthropic and Gemini APIs |
+| Evals and observability | Promptfoo, RAGAS, LLM-as-judge, Langfuse, OpenTelemetry, Datadog, Grafana, Sentry |
+| Full-stack | TypeScript, Python, Java, SQL, React, Next.js, NestJS, Node.js, GraphQL, FastAPI, Spring Boot |
+| Data | PostgreSQL, pgvector, Neon, Firebase, Redis, Kafka |
+| Cloud and DevOps | AWS, GCP, Azure, Docker, Terraform, GitHub Actions, Jenkins |
 
-**Cloud & DevOps:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+### Credentials
 
-**Testing:** ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3) ![Vitest](https://img.shields.io/badge/Vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
+**Claude Academy by Anthropic**, completed September 2026<br>
+[Building with the Claude API](https://academy.claude.com/badges/ae318af3-bee9-4181-ad45-f8f9871d315a) · [Claude Code 101](https://academy.claude.com/badges/d93190e1-bf91-47b4-9f00-158e7e6d1b61) · [Introduction to Model Context Protocol](https://academy.claude.com/badges/2e86b98f-beb1-4500-9a44-f4825a55323d) · [Model Context Protocol: Advanced Topics](https://academy.claude.com/badges/b269e315-426a-4b36-8ed8-996303f317dc) · [AI Fluency: Framework and Foundations](https://academy.claude.com/badges/b81d5ba5-afd2-45a8-bfee-54bf7d79596c) · [Building Effective Human-Agent Teams (beta)](https://academy.claude.com/badges/4b3452e1-83ea-4aec-a571-18b1a698088c)
 
-## 🎯 Notable Projects:
+**Certifications**<br>
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/03fc2ebc-aa51-4a8f-8274-c8821ba51a4b/linked_in_profile) · [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/tharanitharanmuthuthirumaran-6876/credentials/1ff779dc01930b8e)
 
-- **AuditPilot:** Multi-agent AI compliance assistant built on LangGraph 1.0 and Pydantic AI. Three-agent system (Orchestrator, Adversarial Auditor, Human Review Gate) with A2A cross-process protocol and interrupt()-based HITL approval gates. Published `compliance-kb-mcp` v0.2.0 to PyPI and npm — exposes hybrid pgvector + BM25 search over 324 NIST 800-53 controls. 199 pytest + 88 vitest passing, full CI/CD, 15 ADRs.
+**Education**<br>
+MS Computer Science, Northeastern University (Roux Institute), 3.9 GPA, 2026<br>
+BE Electrical and Electronics Engineering, Anna University, 2021
 
-- **Coach AI Assistant (Steady State):** AI coach assistant for a sports coaching SaaS built end-to-end across NestJS GraphQL backend and React + Zustand frontend. OpenAI function calling with 5 read/write tools, two-phase HITL write workflow with TTL pending store, and fuzzy roster-wide athlete name disambiguation.
+---
 
-- **E-Commerce AI App:** Full-stack storefront with a Gemini-powered AI shopping agent using tool-calling to automate product search, order lookup, and checkout. Stripe payments, Clerk auth, and a 3-tier test suite (Vitest, Playwright, integration).
-
-- **Mentivo AI Learning Platform:** AI coding mentor that generates personalized 7-milestone roadmaps and validates understanding through adaptive quizzes. Gemini via Vercel AI SDK, Langfuse + OpenTelemetry observability, Promptfoo eval harness across 8 versioned prompts.
-
-- **PrepWise:** Real-time voice AI interview platform using VAPI + OpenAI. Low-latency two-way speech, context-aware memory across 300+ sessions, calibrated AI scoring rubrics with 27% consistency improvement.
-
-- **NBA Analytics Platform:** Spring Batch ETL pipeline ingesting 65K+ games into PostgreSQL. Reduced dashboard latency from 2s to 200ms (10x) via query refactoring over 13M+ rows. JWT-secured REST API.
-
-- **Stock Market Data Pipeline:** Kafka producer/consumer pipeline on AWS EC2 processing 100K+ events into S3, with Glue Crawlers for schema discovery and serverless SQL via Athena.
-
-## 📖 Certifications:
-- AWS Certified Cloud Practitioner
-- Microsoft Certified: Azure Fundamentals
-
-## 👨‍💼 Work Experience:
-- **Software Engineer Co-op — Skillsoft / Codecademy (Jan–Aug 2025):** Developed AI-powered educational tools and enhanced content creation workflows for a global e-learning platform.
-- **Associate Software Engineer — Accenture (Oct 2021–Dec 2023):** Led automation testing using Python, Jenkins, and Selenium, improving testing efficiency by 18% across enterprise client projects.
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<sub>Built in Portland, Maine. Started in Chennai. Open to forward deployed and AI engineering roles anywhere in the US.</sub>
