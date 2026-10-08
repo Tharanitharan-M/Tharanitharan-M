@@ -3,7 +3,7 @@
   <img alt="Tharanitharan Muthuthirumaran, Forward Deployed Engineer and AI Engineer. Chennai to Portland, Maine." src="assets/header-light.svg" width="100%">
 </picture>
 
-I build AI software next to the people who'll use it. I sit in on the work, find where it gets stuck, then build the fix and train the team to run it.
+I'm [Tharanitharan Muthuthirumaran](https://www.tharanitharan.com). I build AI software next to the people who'll use it: I sit in on the work, find where it gets stuck, then build the fix and train the team to run it.
 
 Right now I'm a forward deployed engineer at SUK Labs, an AI product studio in Portland, Maine. Before that I built LLM systems at Skillsoft and Steady State, and spent two years at Accenture in Chennai building for a US insurer.
 
